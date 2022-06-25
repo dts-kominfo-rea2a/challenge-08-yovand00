@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #5c78f7;
+}
+
+#app{
+    text-align: center;
+    width: 50%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+#todo-title{
+    font-size: 18px;
+    font-family: verdana;
+    font-weight: bold;
+    margin: 10px auto;
+    /*border: 1px solid black;*/
+    width: 60%;
+    background-color: #51e827;
+}
+
+#todo-subtitle{
+    font-size: 13px;
+    font-family: arial;
+    margin: 10px;
+}
+
+#todo-input{
+    width: 100px;
+}
+
+ul{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+}
